@@ -68,4 +68,4 @@ Real-time collaborative editor with multi-user sync, 6-language support, and a s
 
 ---
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul110804&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![](https://komarev.com/ghpvc/?username=rahul110804&color=grey&style=flat&label=profile+views)
